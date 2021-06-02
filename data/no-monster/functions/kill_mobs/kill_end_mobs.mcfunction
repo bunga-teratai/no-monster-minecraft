@@ -1,1 +1,1 @@
-execute as @e[type=enderman] run function no-monster:remove_mob_self
+execute as @e[type=enderman] in minecraft:the_end run function no-monster:remove_mob_self

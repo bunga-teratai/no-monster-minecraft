@@ -1,1 +1,1 @@
-execute as @e[type=creeper] run function no-monster:remove_mob_self
+execute as @e[type=creeper] in minecraft:overworld run function no-monster:remove_mob_self
